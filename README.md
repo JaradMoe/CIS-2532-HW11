@@ -1,4 +1,4 @@
-Student: Muhammad J Jarad
+Student: Muhammad J Jarad \n
 Course: CIS-2532-NET01
 Due Date: 05/06/2022
 Oeiginal Author of code: https://github.com/josephlee94/intuitive-deep-learning
