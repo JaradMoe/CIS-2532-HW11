@@ -4,7 +4,7 @@ Course: CIS-2532-NET01
 
 Due Date: 05/06/2022
 
-Original Author of code: https://github.com/josephlee94/intuitive-deep-learning
+Original Author of Part 1 & Part 2 code: https://github.com/josephlee94/intuitive-deep-learning
 
 
 # Intuitive Deep Learning
