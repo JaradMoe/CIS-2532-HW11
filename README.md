@@ -1,3 +1,9 @@
+Student: Muhammad J Jarad
+Course: CIS-2532-NET01
+Due Date: 05/06/2022
+Oeiginal Author of code: https://github.com/josephlee94/intuitive-deep-learning
+
+
 # Intuitive Deep Learning
 
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
